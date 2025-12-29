@@ -24,7 +24,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate, onStartDiagnosis }) => {
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-cyan-400 opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-cyan-500"></span>
           </span>
-          Neural System Core Active V5.0
+          Sistema Rafaela Online
         </div>
         
         <h1 className="text-6xl md:text-8xl lg:text-9xl font-black font-heading mb-10 leading-[0.85] tracking-tighter text-white">
